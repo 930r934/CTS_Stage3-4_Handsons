@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\ConverterLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\ConverterLib.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\CurrencyConverterApp.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\CurrencyConverterApp.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\obj\Debug\ConverterLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\obj\Debug\ConverterLib.csproj.CopyComplete
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\obj\Debug\ConverterLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\obj\Debug\ConverterLib.pdb

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\AccountsManagerLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\AccountsManagerLib.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\Castle.Core.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\Moq.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\Castle.Core.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\Moq.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\obj\Debug\AccountsManagerLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CopyComplete
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\obj\Debug\AccountsManagerLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\AccountsManagerLib\obj\Debug\AccountsManagerLib.pdb

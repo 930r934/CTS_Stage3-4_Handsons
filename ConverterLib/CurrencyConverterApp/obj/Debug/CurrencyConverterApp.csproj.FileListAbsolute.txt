@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\ConverterLib\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb

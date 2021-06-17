@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\bin\Debug\CollectionsLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\bin\Debug\CollectionsLib.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\obj\Debug\CollectionsLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\obj\Debug\CollectionsLib.csproj.CopyComplete
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\obj\Debug\CollectionsLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\CollectionsLib\obj\Debug\CollectionsLib.pdb
