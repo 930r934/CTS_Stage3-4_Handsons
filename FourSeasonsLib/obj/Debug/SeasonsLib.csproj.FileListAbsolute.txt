@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\bin\Debug\SeasonsLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\bin\Debug\SeasonsLib.pdb
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\obj\Debug\SeasonsLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\obj\Debug\SeasonsLib.dll
+C:\Users\user\Desktop\CTS\Testing\NUnit code reference\FourSeasonsLib\obj\Debug\SeasonsLib.pdb
