@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@model List<ASPcoreHANDSON.Models.Employeedeets>
+<h1>@ViewData["Title"]</h1>
+
+    
+        @foreach (var e in Model)
+        {
+    <div class="row">
+        <div class="col-md-4">@e.Name</div>
+        <div class="col-md-4">@e.Salary</div>
+        <div class="col-md-4">@e.Permanent</div>
+    </div>
+    }
+       
+<p>Use this page to detail your site's privacy policy.</p>

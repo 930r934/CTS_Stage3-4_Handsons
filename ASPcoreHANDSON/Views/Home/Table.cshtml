@@ -1,0 +1,12 @@
+﻿@model List<ASPcoreHANDSON.Models.Employeedeets>
+
+
+@foreach (var e in Model)
+{
+    <div class="row">
+        <div class="col-md-4">@e.Name</div>
+        <div class="col-md-4">@e.Salary</div>
+        <div class="col-md-4">@e.Permanent</div>
+    </div>
+}
+
