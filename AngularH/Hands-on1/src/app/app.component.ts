@@ -21,6 +21,7 @@ export class AppComponent implements OnInit{
     this.http.get('https://reqres.in/api/users').subscribe(response => {
       this.users = response;
       this.title = "got info";
+      console.log(this.users.data);
     }, error => {
       console.log(error);
     })
