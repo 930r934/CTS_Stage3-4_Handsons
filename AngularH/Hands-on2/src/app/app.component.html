@@ -1,0 +1,32 @@
+<h1>Angular Tests</h1>
+<br/>
+<div class="row">
+<div class="col-md-4">
+  <p class="p-4">bootstrap and jquery was added to node-modules using npm and then referenced into Angular by adding their paths in angular.json</p>
+  <ol style="text-align: center;">
+    <li>
+      <button class="btn btn-primary" (click)="consolelog()">console.log values</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-success" (click)="databinding()">data-binding values</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-warning" (click)="switching()">switching components</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-danger">switching components</button>
+    </li>
+  </ol>
+</div>
+<div class="col-md-4">
+  <h2 [style.color]="logcolor">{{consolelogged}}</h2>
+</div>
+<div class="col-md-4">
+</div>
+</div>
+
+
+<br/>
