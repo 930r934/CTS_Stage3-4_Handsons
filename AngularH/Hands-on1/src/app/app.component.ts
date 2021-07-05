@@ -10,11 +10,21 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit{
   title = 'Hands-on1';
   users: any;
-  
-  constructor(private http: HttpClient) {}
+  jst: string = `
+  {
+    "FirstName" : "Jhon",
+    "LastName" : "Stroke",
+    "Salary" : 5000,
+    "PermanentStaff" : true
+  }`;
+
+  constructor(private http: HttpClient) {
+    this.ngOnInit();
+  }
 
   ngOnInit(): void {
-   
+   const obj = JSON.parse(this.jst);
+    console.log(obj);
   }
 
   getUsers() {
