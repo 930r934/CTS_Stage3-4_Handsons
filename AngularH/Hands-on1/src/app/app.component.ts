@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-
+import { IEmployee } from './employee';
 
 @Component({
   selector: 'app-root',
@@ -18,8 +18,19 @@ export class AppComponent implements OnInit{
     "PermanentStaff" : true
   }`;
 
+
   constructor(private http: HttpClient) {
     this.ngOnInit();
+
+    var customer : IEmployee = { 
+      Id : 2, 
+      name : "Jhon",
+      salary : 30000,
+      permanent : true
+   } 
+
+   console.log(customer);
+
   }
 
   ngOnInit(): void {
