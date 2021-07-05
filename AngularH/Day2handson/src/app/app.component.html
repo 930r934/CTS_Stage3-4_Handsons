@@ -1,0 +1,67 @@
+<!-- <h1>Angular Tests</h1>
+<br/>
+<div class="row">
+<div class="col-md-4">
+  <p class="p-4">bootstrap and jquery was added to node-modules using npm and then referenced into Angular by adding their paths in angular.json</p>
+  <ol style="text-align: center;">
+    <li>
+      <button class="btn btn-primary" (click)="consolelog()">console.log values</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-success" (click)="databinding()">data-binding values</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-warning" (click)="switching()">switching components</button>
+    </li>
+    <br/>
+    <li>
+      <button class="btn btn-danger">switching components</button>
+    </li>
+  </ol>
+</div>
+<div class="col-md-4">
+  <h2 [style.color]="logcolor">{{consolelogged}}</h2>
+</div>
+<div class="col-md-4">
+</div>
+</div>
+
+
+<br/> -->
+<h1>Hands on 1</h1>
+<h1>Angular Tests</h1>
+<h3 *ngIf="customer.permanent">This will be shown only if Jhon is a permenant staff</h3>
+<h1>Skills:</h1>
+<div *ngFor="let skill of obj.Skills"><p>{{skill}}</p></div>
+<h1>Hands on 2</h1>
+<div class="row">
+  <div class="col-md-6">
+    <a href="/view">view employee</a>
+  </div>
+    
+  <div class="col-md-6">
+    <a href="/edit">edit employee</a>
+  </div>
+</div>
+<router-outlet></router-outlet>
+<br/>
+<button (click)="dec()">-</button>  
+<input type="number" [(ngModel)]="val" /> 
+<button (click)="inc()">+</button> 
+<div class="row">
+    <div class="col-md-3">
+      <div class="row">
+        <div class="col-md-4">
+         
+        </div>
+        <div class="col-md-4">
+           
+        </div>
+        <div class="col-md-4">
+           
+        </div>
+      </div>
+    </div>
+</div>
