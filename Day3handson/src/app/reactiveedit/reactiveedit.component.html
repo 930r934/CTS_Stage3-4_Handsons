@@ -1,0 +1,11 @@
+<h1>handson 2</h1>
+<p>reactiveedit works!</p>
+<form [formGroup]="empForm">
+    Name: 
+    <input formControlName="name" />
+    <label *ngIf="empForm.get('name')?.invalid"> Name is required with 10 max character. </label>
+    <div> 
+        <button type="submit">Submit</button>
+   </div>
+</form>
+

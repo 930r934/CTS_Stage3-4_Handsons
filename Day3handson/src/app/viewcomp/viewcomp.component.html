@@ -1,0 +1,62 @@
+<h1>handson 1</h1>
+
+<p>viewcomp works!</p>
+
+<input type="text" name="name" [(ngModel)]="student.class" #name="ngModel" [maxLength]="10" [minlength]="3">
+{{name.value}}
+<div>name.invalid - {{name.invalid}}</div>
+
+<div>name.touched - {{name.touched}}</div>
+
+<div>name.dirty - {{name.dirty}}</div>
+
+<div>name.errors.required - {{name.errors?.required}}</div>
+
+<div>name.errors.minlength - {{name.errors?.minlength | json}}</div>
+
+<div *ngIf="name.errors?.minlength" style="color: red;"> 
+   <strong>Length should be > 3 and < 10 {{name.errors?.minlength.actualLength}}</strong> 
+</div>
+<br/>
+
+<div>
+    <label for="name"></label>
+    <input type="text" class="form-control" id="name" name="name" [(ngModel)]="employee.name"/>
+    {{employee.name}}
+    <br/>
+    <label for="age"></label>
+        <input type="age" class="form-control" id="age" name="age" [(ngModel)]="employee.age"/>
+        {{employee.age}}
+        <br/>
+    <label for="salary"></label>
+    <input type="number" class="form-control" id="salary" name="salary" [(ngModel)]="employee.salary"/>
+    {{employee.salary}}
+    <br/>
+    <label for="radio">Permanent</label>
+    <input type="radio" name="permanent" [value]="true" [(ngModel)]="employee.permanent" /> true
+    <input type="radio" name="permanent" [value]="false" [(ngModel)]="employee.permanent" /> false
+    <br/>
+
+    <select  class="form-control" [(ngModel)]="employee.departmentid">
+        <option disabled>Select Website</option>
+        <option *ngFor="let web of department.department" >{{web.id}}</option>
+    </select>
+    <br/>
+    <br/>
+    <br/>
+    <button type="submit" [disabled]="employee.permanent">Save</button>
+</div>
+<br/>
+<div>
+    <pre>
+        employee: any =
+            name: {{employee.name}},
+            age: {{employee.age}},
+            salary: {{employee.salary}},
+            permanent: {{employee.permanent}}
+            departmentid: {{employee.departmentid}}
+    </pre>
+   
+</div>
+
+
