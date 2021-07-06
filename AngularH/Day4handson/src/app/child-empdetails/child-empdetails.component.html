@@ -1,0 +1,25 @@
+<p>child-empdetails works!</p>
+<div class="col-md-4">
+    <table>
+        <tr>
+          <td *ngFor="let user of inputv">
+            <table>
+              <tr>
+                <td><img src="{{user.avatar}}"></td>
+            <td>
+              {{user.first_name}}, {{user.last_name}}<br>
+              {{user.email}}
+            </td>
+            <td>
+                <a href="#">Edit</a>
+              </td>
+              </tr>
+              
+            </table>
+            
+          </td>
+        </tr>
+        
+      </table>
+    
+</div>

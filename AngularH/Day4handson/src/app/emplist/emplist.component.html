@@ -1,0 +1,7 @@
+<h2>hands on 1</h2>
+<p>emplist works!</p>
+<!-- <button (click)="getusers()"> Get users </button> -->
+<label for="search"></label>
+<input name="search" id="search" type="text" [(ngModel)]="id" (keyup)="search()"/>
+{{id}}
+<app-child-empdetails [inputv]="fusers"></app-child-empdetails>

@@ -1,10 +1,19 @@
 <button (click)="getUsers()"> Get users </button>
 <table>
-  <tr *ngFor="let user of users.data">
-    <td><img src="{{user.avatar}}"></td>
-    <td>
-      {{user.first_name}}, {{user.last_name}}<br>
-      {{user.email}}
+  <tr>
+    <td *ngFor="let user of users.data">
+      <table>
+        <tr>
+          <td><img src="{{user.avatar}}"></td>
+      <td>
+        {{user.first_name}}, {{user.last_name}}<br>
+        {{user.email}}
+      </td>
+        </tr>
+        
+      </table>
+      
     </td>
   </tr>
+  
 </table>
