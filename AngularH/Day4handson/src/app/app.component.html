@@ -4,3 +4,18 @@
 <a href="/emplist">Employee List</a>
 <router-outlet></router-outlet>
 <h2>handson-2 of day 4</h2>
+<p>displaying employees using a service</p>
+<h2 *ngIf="boolt">Employee details have been retrieved and displayed on the console as an array</h2>
+<h2>enter an id</h2>
+<input type="number" id="idn" [(ngModel)]="idn" (keyup)="serv()"/>
+{{idn}}
+<h4>
+    <pre *ngIf="idobj">
+        {{idobj.id}}
+        {{idobj.name}}
+        {{idobj.age}}
+        {{idobj.salary}}
+        {{idobj.emailid}}
+    </pre>
+    
+</h4>

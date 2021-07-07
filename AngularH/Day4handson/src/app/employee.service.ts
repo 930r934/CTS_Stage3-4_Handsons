@@ -26,16 +26,21 @@ export class EmployeeService {
 
   getallemployees() : object[]
   {
+    console.log(this.obj);
     return this.obj;
   }
 
   getemployeebyid(id: number) : any
   {
+  var selement;
     this.obj.forEach(element => {
       if(element.id == id)
-      return element;      
+      {
+        selement = element;
+      }    
     });
-    return null;
+    console.log(selement);
+    return selement;
   }
 
 }
